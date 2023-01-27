@@ -4,7 +4,7 @@ class Streichelzoo {
         Schaf("Ben", 32.1, 7, "männlich"),
         Huhn("Henriette", 2.5, 2, "weiblich", 3),
         Huhn("Herbert", 3.4, 3, "männlich", 0),
-        Kuh("Clarissa", 567.8, 4, "weiblich", true),
+        Kuh("Clarissa", 567.8, 4, "weiblich"),
         Pony("Phil", 350.4, 3, "männlich", 28.9),
         Pony("Manni", 578.9, 5, "männlich", 87.8),
         Pony("Thorben", 564.3, 4, "männlich", 87.9)

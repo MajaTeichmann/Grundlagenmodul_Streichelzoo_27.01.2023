@@ -31,7 +31,7 @@ fun main(){
     Pony("Manni", 578.9, 5,"männlich",87.8).reiten(boris)
 
     println("\nAufgabe 10.9:")
-    Kuh("Clarissa",567.8,4,"weiblich",true).melken(boris)
+    Kuh("Clarissa",567.8,4,"weiblich").melken(boris)
 
     println("\nAufgabe 10.10:")
     streichelzoo.tiereGeraeusche()
