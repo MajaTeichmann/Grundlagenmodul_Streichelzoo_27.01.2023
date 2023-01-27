@@ -1,6 +1,5 @@
 class Kuh(name:String,gewicht:Double,alter:Int,geschlecht:String):Tier(name, gewicht, alter, geschlecht) {
 
-    constructor(name: String,gewicht: Double,alter:Int,geschlecht: String, gibtMilch: Boolean) : this(name,gewicht,alter,geschlecht)
 
     var gibtMilch: Boolean = false
 
