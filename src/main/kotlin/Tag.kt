@@ -44,4 +44,5 @@ fun main(){
         Pony("Manni", 578.9, 5, "männlich", 87.8),
         Pony("Thorben", 564.3, 4, "männlich", 87.9)
     )
+
 }
