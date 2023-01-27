@@ -13,6 +13,7 @@ class Kuh(name:String,gewicht:Double,alter:Int,geschlecht:String):Tier(name, gew
             println("${name} gibt Milch")
         }
         else{
+            gibtMilch = false
             println("${name} kann keine Milch geben")
         }
     }
